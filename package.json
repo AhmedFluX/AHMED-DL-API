@@ -1,0 +1,19 @@
+
+{
+  "name": "ahmed-md-api",
+  "version": "1.0.0",
+  "private": false,
+  "description": "AHMED-MD Media API Platform",
+  "main": "api/index.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "^39.2.0"
+  }
+}
+ 
